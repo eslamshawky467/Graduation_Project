@@ -1,0 +1,10 @@
+to start open index.html from html folder
+
+the app divided into sections 
+before login that have home, about, contact, doctors, news pages
+
+for doctors page to make appointment u have to login first
+news page is empty till we decide what will we do in it
+
+
+second section is the same pages but with extra pages like: checkup, reports(empty now till we decide what will we do in it) acc settings
